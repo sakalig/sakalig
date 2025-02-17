@@ -7,7 +7,6 @@
   - 🌱 Learning Spring, Flutter, Data Engineering and Go
   - 🌱 Enjoying DataCamp content, Devops and automation of workflows
   - ⚡ Fun fact: I play some guitar
-  - 📫 How to reach me: julienyange@gmail.com 
   - 👯 Open to collaborate on any Python, ML Model deployment, or Data Engineering project
 
 
